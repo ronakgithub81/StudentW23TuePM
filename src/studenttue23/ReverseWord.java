@@ -4,6 +4,7 @@ package studenttue23;
 import java.util.Scanner;
 
 /* author:Ronak */
+/*anoter comment*/
 public class ReverseWord {
     public static void main(String[] args){
         /*char[] myArray = new char[7];
